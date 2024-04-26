@@ -1,0 +1,138 @@
+[
+    {
+      "name": "Espresso",
+      "quantity": "250g",
+      "supplier": "Coffee Masters",
+      "taste": "Strong and Bold",
+      "category": "Dark Roast",
+      "details": "Made from a blend of premium Arabica beans, roasted to perfection for a rich and intense flavor.",
+      "photo": "espresso.jpg"
+    },
+    {
+      "name": "Colombian Supremo",
+      "quantity": "12 oz",
+      "supplier": "Juan Valdez",
+      "taste": "Medium-bodied with Bright Acidity",
+      "category": "Single Origin",
+      "details": "Sourced from the high-altitude regions of Colombia, offering a smooth and balanced taste with floral undertones.",
+      "photo": "colombian_supremo.jpg"
+    },
+    {
+      "name": "Ethiopian Yirgacheffe",
+      "quantity": "1 lb",
+      "supplier": "Blue Bottle Coffee",
+      "taste": "Fruity and Floral",
+      "category": "Single Origin",
+      "details": "Features distinctive floral and citrus notes, harvested from the birthplace of coffee in Ethiopia.",
+      "photo": "ethiopian_yirgacheffe.jpg"
+    },
+    {
+      "name": "French Roast",
+      "quantity": "16 oz",
+      "supplier": "Peet's Coffee",
+      "taste": "Intense and Smoky",
+      "category": "Dark Roast",
+      "details": "A classic French roast with a deep, smoky flavor profile and a bold finish.",
+      "photo": "french_roast.jpg"
+    },
+    {
+      "name": "Costa Rican Tarrazu",
+      "quantity": "2.5 lb",
+      "supplier": "La Minita",
+      "taste": "Bright and Citrusy",
+      "category": "Single Origin",
+      "details": "Grown in the renowned Tarrazu region of Costa Rica, this coffee offers a vibrant acidity and hints of citrus.",
+      "photo": "costa_rican_tarrazu.jpg"
+    },
+    {
+      "name": "Sumatra Mandheling",
+      "quantity": "8 oz",
+      "supplier": "Starbucks Reserve",
+      "taste": "Earthy and Full-bodied",
+      "category": "Single Origin",
+      "details": "Known for its earthy flavors and low acidity, this coffee from Sumatra boasts a syrupy body and complex aroma.",
+      "photo": "sumatra_mandheling.jpg"
+    },
+    {
+      "name": "Kenyan AA",
+      "quantity": "1 lb",
+      "supplier": "Kicking Horse Coffee",
+      "taste": "Bright and Wine-like",
+      "category": "Single Origin",
+      "details": "This Kenyan AA coffee is characterized by its bright acidity, wine-like flavors, and rich aroma.",
+      "photo": "kenyan_aa.jpg"
+    },
+    {
+      "name": "Brazilian Santos",
+      "quantity": "2 lb",
+      "supplier": "Café do Brasil",
+      "taste": "Nutty and Sweet",
+      "category": "Single Origin",
+      "details": "With its nutty sweetness and mild acidity, Brazilian Santos offers a smooth and satisfying cup.",
+      "photo": "brazilian_santos.jpg"
+    },
+    {
+      "name": "Guatemalan Antigua",
+      "quantity": "12 oz",
+      "supplier": "Stumptown Coffee Roasters",
+      "taste": "Chocolatey and Spicy",
+      "category": "Single Origin",
+      "details": "Grown in the volcanic soils of Antigua, Guatemala, this coffee features a rich chocolatey flavor with spicy undertones.",
+      "photo": "guatemalan_antigua.jpg"
+    },
+    {
+      "name": "Rwanda Bourbon",
+      "quantity": "16 oz",
+      "supplier": "Intelligentsia Coffee",
+      "taste": "Juicy and Floral",
+      "category": "Single Origin",
+      "details": "Packed with floral aromas and juicy flavors, this Rwandan coffee showcases the unique characteristics of the Bourbon variety.",
+      "photo": "rwanda_bourbon.jpg"
+    },
+    {
+      "name": "Mexican Chiapas",
+      "quantity": "2 lb",
+      "supplier": "Verve Coffee Roasters",
+      "taste": "Balanced and Nutty",
+      "category": "Single Origin",
+      "details": "From the Chiapas region of Mexico, this coffee offers a well-balanced flavor profile with nutty undertones and a smooth finish.",
+      "photo": "mexican_chiapas.jpg"
+    },
+    {
+      "name": "Panama Geisha",
+      "quantity": "8 oz",
+      "supplier": "George Howell Coffee",
+      "taste": "Complex and Floral",
+      "category": "Single Origin",
+      "details": "Renowned for its floral and tea-like qualities, Panama Geisha is a rare and prized coffee variety.",
+      "photo": "panama_geisha.jpg"
+    },
+    {
+      "name": "Tanzanian Peaberry",
+      "quantity": "1 lb",
+      "supplier": "Counter Culture Coffee",
+      "taste": "Bright and Citrusy",
+      "category": "Single Origin",
+      "details": "With its unique pea-shaped beans, Tanzanian Peaberry offers a bright acidity and citrusy notes.",
+      "photo": "tanzanian_peaberry.jpg"
+    },
+    {
+      "name": "Hawaiian Kona",
+      "quantity": "16 oz",
+      "supplier": "Koa Coffee",
+      "taste": "Smooth and Nutty",
+      "category": "Single Origin",
+      "details": "Grown in the rich volcanic soil of Hawaii, Kona coffee is prized for its smooth, mellow flavor with hints of nuttiness.",
+      "photo": "hawaiian_kona.jpg"
+    },
+    {
+      "name": "Vietnamese Robusta",
+      "quantity": "250g",
+      "supplier": "Trung Nguyen",
+      "taste": "Bold and Robust",
+      "category": "Robusta",
+      "details": "Known for its strong and intense flavor, Vietnamese Robusta offers a bold and robust coffee experience.",
+      "photo": "vietnamese_robusta.jpg"
+    }
+  ]
+  
